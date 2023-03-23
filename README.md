@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsunnaher-1604048&label=Profile%20views&color=0e75b6&style=flat" alt="samsunnaher-1604048" /> </p>
 
-- 🔭 I’m currently working on [Employee-Management](SamsunNaher-1604048 / Employee-Management)
+- 🔭 I’m currently working on [Employee-Management](https://github.com/SamsunNaher-1604048/employee-managgement)
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samsun naher nishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samsun naher nishi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nishi1604048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nishi1604048" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nishi1604048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishi1604048" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsunnaher-1604048&show_icons=true&locale=en" alt="samsunnaher-1604048" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsunnaher-1604048&" alt="samsunnaher-1604048" /></p>
-
